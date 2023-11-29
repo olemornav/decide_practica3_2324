@@ -1,3 +1,5 @@
+[![Python application](https://github.com/olemornav/decide_practica3_2324/actions/workflows/django.yml/badge.svg)](https://github.com/olemornav/decide_practica3_2324/actions/workflows/django.yml)
+
 Plataforma voto electrónico educativa
 =====================================
 
